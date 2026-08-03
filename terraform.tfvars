@@ -10,7 +10,12 @@ resource_groups = {
     }
 
     rg3 = {
-        name = "rg-minku"
+        name = "rg-tinku"
+        location = "central India"
+    }
+
+      rg4 = {
+        name = "rg-chinki"
         location = "central India"
     }
 }
