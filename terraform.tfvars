@@ -4,7 +4,12 @@ resource_groups = {
         location = "central India"
     }
 
-     rg1 = {
+     rg2 = {
+        name = "rg-minku"
+        location = "central India"
+    }
+
+    rg3 = {
         name = "rg-minku"
         location = "central India"
     }
